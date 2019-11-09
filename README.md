@@ -53,5 +53,3 @@ npm install
 Skype -> live:force.top_1
 
 Email -> willcomeo022@gmail.com
-
-Freelancer -> https://www.freelancer.com/u/xiqian88?w=f
